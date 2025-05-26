@@ -15,7 +15,7 @@ AVAILABLE_MODELS = [
 
 HEADERS = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-    "HTTP-Referer": "http://localhost:8501",  # Ganti dengan domain kamu
+    "HTTP-Referer": "https://chatbot-app-deploy.streamlit.app/",  # Ganti dengan domain kamu
     "X-Title": "AI Chatbot Streamlit"
 }
 
