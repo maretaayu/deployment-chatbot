@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # ========== CONFIG ==========
-OPENROUTER_API_KEY = "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"  # Ganti dengan OpenRouter API Key-mu
+OPENROUTER_API_KEY = "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"  # Ganti dengan OpenRouter API Key-mu
 
 # List model yang tersedia
 AVAILABLE_MODELS = [
